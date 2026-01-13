@@ -1,8 +1,8 @@
 {
-    "manufacturer": "Woofson",
-    "keyboard_name": "Woofson Sofle Choc Pro",
+    "manufacturer": "Woofsons Lab",
+    "keyboard_name": "Bolts Sofle Choc Pro",
     "url": "https://github.com/Woofson/vial-qmk-woofson",
-    "maintainer": "Woofson",
+    "maintainer": "Bolt J. Woofson",
     "bootloader": "rp2040",
     "diode_direction": "COL2ROW",
     "features": {
