@@ -1,8 +1,8 @@
 {
-    "manufacturer": "Keebart",
-    "keyboard_name": "Sofle Choc Pro",
-    "url": "https://keebart.com/products/sofle",
-    "maintainer": "Keebart",
+    "manufacturer": "Woofson",
+    "keyboard_name": "Woofson Sofle Choc Pro",
+    "url": "https://github.com/Woofson/vial-qmk-woofson",
+    "maintainer": "Woofson",
     "bootloader": "rp2040",
     "diode_direction": "COL2ROW",
     "features": {
